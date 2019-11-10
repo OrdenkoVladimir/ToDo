@@ -1,0 +1,13 @@
+
+* {
+  box-sizing: border-box;
+}
+
+.todosBlock {
+  width: 50%;
+  margin: 0 auto;
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 20px;
+  margin-top: 50px;
+}
